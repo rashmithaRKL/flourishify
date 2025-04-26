@@ -1,69 +1,57 @@
-# Welcome to your Lovable project
+## PulchrDesign
 
-## Project info
+About
 
-**URL**: https://lovable.dev/projects/39be042e-7aee-489f-9071-e0384048cc9f
+PulchrDesign is a sleek, modern website built with TypeScript.
+It focuses on crafting minimalist digital experiences that blend intuitive functionality with elegant aesthetics, perfect for showcasing design philosophies and creative portfolios.
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+This project is developed by Dexlanka Software Solutions — dexlanka.com.
 
-**Use Lovable**
+You can view the live website here: Visit Tranquil Haven
+(https://rashmitharkl.github.io/flourishify/)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/39be042e-7aee-489f-9071-e0384048cc9f) and start prompting.
+Features
 
-Changes made via Lovable will be committed automatically to this repo.
+🎨 Minimalist design focused on clarity and elegance
 
-**Use your preferred IDE**
+🖌️ Smooth UI/UX transitions for a seamless browsing experience
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+📱 Fully responsive across mobile, tablet, and desktop devices
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+💬 Client testimonials to build trust and credibility
 
-Follow these steps:
+🚀 Fast load times and optimized performance with TypeScript
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+📄 Philosophy-driven sections to highlight brand values
+
+⚡ Clean, structured code for easy maintenance and scalability
+
+
+How to Run Locally
+
+Follow these steps to set up and run the project on your local machine:
+
+
+Step 1: Clone the repository using the project's Git URL.
+
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+Step 2: Navigate to the project directory.
+
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+Step 3: Install the necessary dependencies.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+npm install
+
+Step 4: Start the development server with auto-reloading and an instant preview.
+
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Project Information
 
-**Use GitHub Codespaces**
+Developed by: Dexlanka Software Solutions
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/39be042e-7aee-489f-9071-e0384048cc9f) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Technologies used: TypeScript, [add others like React, TailwindCSS, etc. if used]
